@@ -155,3 +155,4 @@ Restart FxR and close and re-open the WebIDE page.
 To compile with Servo support, create a file called `user.properties` in the top-level project directory and add `enableServo=1`. Then to enable Servo in Firefox Reality, go the Developer Options panel in the Settings, and toggle the Servo option. Then a new button will be added to the navigation bar. Clicking that button will reload the current page with Servo.
 
 Have a nice coding journey ahead.
+And please keep updating this repo.
