@@ -44,7 +44,7 @@ pushd third_party && git fetch && git checkout main && git rebase origin/main &&
 
 *Fetch Git submodules.*
 
-You may need to set up [two-factor authentication](https://blog.github.com/2013-09-03-two-factor-authentication/#how-does-it-work-for-command-line-git) for the command line.
+You may need to set up the [two-factor authentication](https://blog.github.com/2013-09-03-two-factor-authentication/#how-does-it-work-for-command-line-git) for the command line.
 
 ```bash
 git submodule update --init --recursive
