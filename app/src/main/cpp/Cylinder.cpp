@@ -40,6 +40,7 @@ struct Cylinder::State {
   vrb::TransformPtr transform;
   vrb::GeometryPtr geometry;
   float radius;
+  float x;
   float height;
   float theta;
   float textureScaleX;
